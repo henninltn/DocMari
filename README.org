@@ -1,0 +1,7 @@
+* DocMari 
+
+Puzzle game like Dr.MARIO
+
+** Usage
+
+** Installation
